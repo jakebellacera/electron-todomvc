@@ -4,6 +4,7 @@
   "private": true,
   "main": "./src/main.js",
   "devDependencies": {
-    "babel": "^5.1.10"
+    "babel": "^5.1.10",
+    "react": "^0.13.1"
   }
 }
