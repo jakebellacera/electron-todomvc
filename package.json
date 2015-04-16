@@ -1,0 +1,9 @@
+{
+  "name": "atom-shell-todomvc-demo",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./src/main.js",
+  "devDependencies": {
+    "babel": "^5.1.10"
+  }
+}

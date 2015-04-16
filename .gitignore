@@ -1,0 +1,5 @@
+/node_modules
+
+# Build app
+build/atom-shell
+build/node_modules
