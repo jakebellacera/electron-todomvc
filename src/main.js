@@ -1,6 +1,5 @@
 require("babel/register")({
-  ignore: /node_modules/,
-  stage: 0
+  ignore: /node_modules/
 });
 
 require("./browser/main");
