@@ -3,5 +3,5 @@ import TodoApp from "./components/TodoApp.react";
 
 React.render(
   <TodoApp />,
-  document.getElementById('app')
+  document.getElementById('todomvc-app')
 );
