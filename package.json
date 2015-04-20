@@ -5,6 +5,7 @@
   "main": "./src/main.js",
   "devDependencies": {
     "babel": "^5.1.10",
+    "flux": "^2.0.1",
     "react": "^0.13.1"
   }
 }
