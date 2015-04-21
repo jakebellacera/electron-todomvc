@@ -1,7 +1,7 @@
-# Demo TodoMVC atom-shell app
+# Electron TodoMVC App
 
-This app is a demo of [TodoMVC](http://todomvc.com) running as a desktop application with [atom-shell](https://github.com/atom/atom-shell).
+This app is a demo of [TodoMVC](http://todomvc.com) running as a desktop application with [electron](https://github.com/atom/electron) (formerly known as `atom-shell`).
 
-# Building
+## Running
 
-On OSX, execute `./run.sh` in terminal to get the app up and running.
+To run the app, simply run `npm start`.
