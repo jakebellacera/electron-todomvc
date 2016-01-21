@@ -1,7 +1,8 @@
 import React, { PropTypes as ReactPropTypes } from "react";
 import TodoActions from "../actions/TodoActions";
 import TodoTextInput from "./TodoTextInput.react";
-import cx from "react/lib/cx";
+import classNames from 'classnames/bind';
+let cx = classNames.bind();
 
 class TodoItem extends React.Component {
 
